@@ -5,11 +5,17 @@ Check out the new style for App Design aims for Classrooms...😉😀😁😎
 
 **Please click the image below to enlarge.**
 
-<img src="" height="600" width="300" hspace="40"><img src="" height="600" width="300" hspace="40">
+<img src="https://github.com/Shashank02051997/ClassroomUI-Android/blob/master/Screenshots/Screenshot_20190707-232005.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/ClassroomUI-Android/blob/master/Screenshots/Screenshot_20190707-232010.png" height="600" width="300" hspace="40">
 
-<img src="" height="600" width="300" hspace="40"><img src="" height="600" width="300" hspace="40">
+<img src="https://github.com/Shashank02051997/ClassroomUI-Android/blob/master/Screenshots/Screenshot_20190707-232018.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/ClassroomUI-Android/blob/master/Screenshots/Screenshot_20190707-232027.png" height="600" width="300" hspace="40">
 
-<img src="" height="600" width="300" hspace="40"><img src="" height="600" width="300" hspace="40">
+<img src="https://github.com/Shashank02051997/ClassroomUI-Android/blob/master/Screenshots/Screenshot_20190707-232034.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/ClassroomUI-Android/blob/master/Screenshots/Screenshot_20190707-232047.png" height="600" width="300" hspace="40">
+
+<img src="https://github.com/Shashank02051997/ClassroomUI-Android/blob/master/Screenshots/Screenshot_20190707-232059.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/ClassroomUI-Android/blob/master/Screenshots/Screenshot_20190707-232108.png" height="600" width="300" hspace="40">
+
+<img src="https://github.com/Shashank02051997/ClassroomUI-Android/blob/master/Screenshots/Screenshot_20190707-232116.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/ClassroomUI-Android/blob/master/Screenshots/Screenshot_20190707-232125.png" height="600" width="300" hspace="40">
+
+<img src="https://github.com/Shashank02051997/ClassroomUI-Android/blob/master/Screenshots/Screenshot_20190707-232140.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/ClassroomUI-Android/blob/master/Screenshots/Screenshot_20190707-232149.png" height="600" width="300" hspace="40">
 
 ## Contributing
 
