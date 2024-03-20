@@ -1,5 +1,5 @@
 # ClassroomUI-Android
-Check out the new style for App Design aims for Classrooms...😉😀😁😎
+Check out the new style for App Design aims for Classrooms...
 
 ## Screenshots
 
